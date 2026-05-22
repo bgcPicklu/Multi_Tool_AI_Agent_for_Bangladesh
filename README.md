@@ -11,6 +11,7 @@ This engine implements an optimized **Dual-Layer Deterministic Router Architectu
 To execute the engine successfully, verify that your workspace directory matches the following structural blueprint:
 
 ```text
+Project
 ├── .env                        # Private system credentials and API tokens
 ├── app.py                      # Main REPL execution command-line shell runtime
 ├── LICENSE
@@ -291,22 +292,7 @@ source venv/bin/activate
 ```
 
 ###### 2. Core Dependencies
-Install the required packages using pip. This includes the foundational LLM frameworks and provider integration suites.
-```text
-# Update pip to the latest version
-pip install --upgrade pip
-
-# Install main framework dependencies
-pip install langchain langchain-core langgraph
-
-# Install model provider integrations
-pip install langchain-groq langchain-openai langchain-anthropic
-
-# Install environment and utility helper libraries
-pip install python-dotenv pydantic requests
-```
-
-Alternatively, you can bundle these into a requirements.txt file And run:
+Install the required packages using pip. You can bundle these into a requirements.txt file And run:
 ```text
 pip install -r requirements.txt
 ```
