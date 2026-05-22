@@ -131,11 +131,28 @@ Ask: What is the role of DGHS in Bangladesh?
  Answer:
 **Role of Directorate General of Health Services (DGHS) in Bangladesh**
 
-The Directorate General of Health Services (DGHS) is the primary executive agency of Bangladesh's Ministry of Health and Family Welfare...
+The Directorate General of Health Services (DGHS) is the primary executive agency of Bangladesh's Ministry of Health and Family Welfare, responsible for implementing national health policies, managing public healthcare delivery, and coordinating disease control programs across the country.
 
 **Key Functions:**
-1. **Planning and Execution of Health Initiatives**: Provides vital technical support...
-2. **Administrative Oversight**: Oversees medical college hospitals and lower-tier district-level units...
+
+1. **Health Policy Implementation**: DGHS plans and executes health initiatives, ensuring the effective implementation of national health policies.
+2. **Technical Support**: The agency provides technical support to the Ministry of Health and Family Welfare, enabling informed decision-making.
+3. **Health Information Management**: DGHS maintains the national health information portal, facilitating data aggregation and transparency.
+4. **Healthcare Delivery**: The agency manages public healthcare delivery, ensuring access to quality healthcare services across the country.
+
+**Structure and Operations:**
+
+DGHS operates from its headquarters in Mohakhali, Dhaka, under the leadership of a Director General, supported by additional directors, line directors, and field officers. The agency's structure emphasizes administrative oversight of medical college hospitals and lower-tier health units, enabling policy execution through a hierarchical network.
+
+**Contribution to Health Gains:**
+
+DGHS has contributed to significant health gains in Bangladesh, including expansions in maternal care infrastructure and digital health strategies aimed at universal coverage. The agency has also played a crucial role in reducing mortality rates over the years.
+
+**Challenges and Controversies:**
+
+Despite its contributions, DGHS has been implicated in systemic health sector challenges, including corruption scandals, doctor absenteeism, and regulatory efficacy gaps. These issues highlight the need for continued reform and improvement in the health sector.
+
+In summary, the Directorate General of Health Services (DGHS) plays a vital role in implementing national health policies, managing public healthcare delivery, and coordinating disease control programs in Bangladesh. While the agency has made significant contributions to health gains, it also faces challenges and controversies that require attention and reform.
 ```
 
 3. Multi-Attribute Statistical Requests (High-Fidelity Web Synthesis)
@@ -146,10 +163,41 @@ Ask: List Top 10 hospitals in Dhaka with bed capacity.
  Processing query via LangChain Routing Executor...
 
  Answer:
-**Top 10 Hospitals in Dhaka with Bed Capacity**
-1. Dhaka Medical College Hospital - 2600 beds
-2. The Square Hospital - 700 beds
-3. Evercare Hospital Dhaka - 500 beds
+**Top 10 Hospitals in Dhaka, Bangladesh with Bed Capacity**
+
+Based on the latest web search results, here's a comprehensive list of the top 10 hospitals in Dhaka, Bangladesh, along with their bed capacity:
+
+1. **The Square Hospital** - 750 beds
+Located in the heart of Dhaka, it's one of the biggest private hospitals in the city, providing world-class medical facilities and services.
+
+2. **Evercare Hospital Dhaka** - 400 beds
+A state-of-the-art hospital with a simple and patient-centric approach, offering a wide range of medical services and treatments.
+
+3. **United Hospital Limited** - 650 beds
+A leading private hospital in Dhaka, providing comprehensive medical care and services to patients from all over the country.
+
+4. **Dhaka Medical College Hospital** - 2,500 beds
+One of the oldest and largest hospitals in Bangladesh, offering a wide range of medical services, including emergency care, surgery, and specialized treatments.
+
+5. **Kurmitola General Hospital** - 1,000 beds
+A government-run hospital located in the Kurmitola area of Dhaka, providing medical services to patients from all walks of life.
+
+6. **Apollo Hospital Dhaka** - 300 beds
+A private hospital with a reputation for providing high-quality medical care and services to patients from Bangladesh and abroad.
+
+7. **Ibn Sina Hospital** - 250 beds
+A private hospital with a focus on providing comprehensive medical care and services to patients, including emergency care and specialized treatments.
+
+8. **Green Life Hospital** - 200 beds
+A private hospital with a reputation for providing high-quality medical care and services to patients from Bangladesh and abroad.
+
+9. **Anwer Khan Modern Hospital** - 150 beds
+A private hospital with a focus on providing comprehensive medical care and services to patients, including emergency care and specialized treatments.
+
+10. **BDS General Hospital** - 100 beds
+A government-run hospital located in the Dhaka city area, providing medical services to patients from all walks of life.
+
+Please note that the bed capacity of these hospitals may be subject to change, and it's always best to verify the information with the hospital directly before visiting.
 ```
 
 4. Dynamic Academic Keyword Lookups (Direct Database Query)
@@ -161,8 +209,17 @@ Ask: Which universities in Bangladesh offer medical degrees?
 
  Answer:
 Here's a clean bulleted list of the institutions matching medical degree tracks:
+
 * FORESIGHT MEDICAL INSTITUTE (PATUAKHALI) - Technical and Vocational
 * BENGAL INSTITUTE OF MEDICAL TECHNOLOGY (BRAHAMANBARIA) - Technical and Vocational
+* HAJIGONJ MEDICAL INSTITUTE,HAJIGONJ (CHANDPUR) - Technical and Vocational
+* CONTINENTAL INSTITUTE OF MEDICAL TECHNOLOGY (CHITTAGONG) - Technical and Vocational
+* AVOY ASHRAM INSTITUTE OF MEDICAL TECHNOLOGY (COMILLA) - Technical and Vocational
+* KOTBARI SHAHID SMIRITY PARAMEDICAL INSTITUTE (COMILLA) - Technical and Vocational
+* LANDMARK PARA-MEDICAL INSTITUTE (COMILLA) - Technical and Vocational
+* SOFT-TECH INSTITUTE OF MEDICAL TECHNOLOGY (COMILLA) - Technical and Vocational
+* SHYAMOLI IDEAL MEDICAL INSTITUTE (LAKSHMIPUR) - Technical and Vocational
+* ASIAN INSTITUTE OF MEDICAL SCIENCE (DHAKA) - Technical and Vocational
 ```
 
 5. Intent Normalization Guardrail (Spelling Variant Correction)
@@ -174,9 +231,25 @@ Ask: Find restaurants in Chittagong serving biryani
 
  Answer:
 **Discover the Best Biryani Restaurants in Chittagong**
-1. Alif Restaurant and Biryani House (Alongkar, Chattogram)
-2. Al Aqsa Hotel & Biryani House
-3. Handi Restaurant (Famous for Hyderabadi biryani)
+
+If you're craving delicious biryani in Chittagong, we've got you covered. Based on online reviews and ratings, here are some top recommendations:
+
+1. **Al Aqsa Hotel & Biryani House**: This restaurant has a 3.8-star rating on Foodpanda, with reviewers praising its flavorful biryani dishes. You can find it on Foodpanda's website or mobile app.
+2. **Handi Restaurant**: This popular eatery has been praised by TripAdvisor users for its mouth-watering Hyderabadi biryani. Its modern location in a busy road adds to its appeal.
+3. **Kutumboobadi Restaurant**: Steemit users have raved about this restaurant's special mutton biryani with leg of goat, which they consider the best of 2019. The restaurant offers excellent service, quality food, and a special taste that's worth trying.
+
+**Honorable Mention:**
+
+* **Hotel ABP Biryani House & Restaurant**: Although it's currently closed until Saturday, this restaurant has a good reputation for its biryani dishes.
+* **Asian Kabab & Biryani House - GEC**: This restaurant is a great option for those looking for a variety of biryani options.
+
+**Tips:**
+
+* Check the current ratings and reviews on Foodpanda or TripAdvisor before visiting any of these restaurants.
+* Be sure to try the special mutton biryani with leg of goat at Kutumboobadi Restaurant, as it's been highly recommended by users.
+* Don't hesitate to explore other options in Chittagong, as there are many more restaurants serving delicious biryani dishes.
+
+Enjoy your culinary adventure in Chittagong!
 ```
 ---
 
